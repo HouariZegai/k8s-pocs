@@ -13,5 +13,8 @@ minikube status
 
 ```
 
+## Notes
+- If you are using Docker Desktop, don't forget to enable **Kubernates** in Docker Desktop Settings.
+
 ## Documentation
 * [Kubernates Docs](https://kubernetes.io/docs)
